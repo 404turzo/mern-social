@@ -1,7 +1,7 @@
 {
-  "name": "mern-boilerplate",
+  "name": "mern-social",
   "version": "1.0.0",
-  "description": "MERN boilerplate",
+  "description": "Social Media",
   "author": "Turzo Ahsan",
   "license": "MIT",
   "keywords": [
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/404turzo/mern-boilerplate"
+    "url": "https://github.com/404turzo/mern-social"
   },
-  "homepage": "https://github.com/404turzo/mern-boilerplate",
+  "homepage": "https://github.com/404turzo/mern-social",
   "main": "template.js",
   "scripts": {
     "development": "nodemon",
