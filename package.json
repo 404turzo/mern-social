@@ -1,8 +1,8 @@
 {
   "name": "mern-simplesetup",
   "version": "1.0.0",
-  "description": "A quick check for your MERN stack installation",
-  "author": "Shama Hoque",
+  "description": "MERN boilerplate",
+  "author": "Turzo Ahsan",
   "license": "MIT",
   "keywords": [
     "react",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-simplesetup.git"
+    "url": "https://github.com/404turzo/mern-boilerplate"
   },
-  "homepage": "https://github.com/shamahoque/mern-simplesetup",
+  "homepage": "https://github.com/404turzo/mern-boilerplate",
   "main": "template.js",
   "scripts": {
     "development": "nodemon",
