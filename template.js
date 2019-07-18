@@ -3,11 +3,10 @@ export default () => {
       <html lang="en">
         <head>
           <meta charset="utf-8">
-          <title>Social Media</title>
+          <title>Social Network</title>
         </head>
         <body>
-          <div id="root"></div>
-          <script type="text/javascript" src="/dist/bundle.js"></script>
+          <div id="root">Social Network</div>
         </body>
       </html>`
 }
